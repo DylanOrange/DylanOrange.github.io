@@ -1,6 +1,6 @@
 ---
 title: "Shape Completion with Meso-Skeleton Learning."
-collection: publications
+collection: research
 permalink: /research/Shape-Completion-with-Meso-Skeleton-Learning
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 # date: 2009-10-01
