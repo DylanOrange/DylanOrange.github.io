@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.sc. Vehicle Engineering, Tongji University, 2020
+* M.sc. Robotics, Cognition, Intelligence, Technical University of Munich, 2023 (expected)
 
 Work experience
 ======
