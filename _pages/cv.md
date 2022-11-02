@@ -14,45 +14,14 @@ Education
 * B.sc. Vehicle Engineering, Tongji University, 2020
 * M.sc. Robotics, Cognition, Intelligence, Technical University of Munich, 2023 (expected)
 
-Work experience
+Prizes
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* The Second Place Finalist in Tencent AIMIS Medical Artificial Intelligence Algorithm Competition (2021)
+* The Second Prize of China Post-graduate Mathematical Contest in Modeling (2020)
+* The Second Prize of Contemporary Undergraduate Mathematical Contest in Modeling (2017)
+* The Third Prize of Tongji University Mathematical Contest in Modeling (2017)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Scholarships
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* The Third Prize of Tongji Scholarship of Excellence (2017, 2019)
+* The First Prize of Tongji Scholarship of Excellence (2018)
