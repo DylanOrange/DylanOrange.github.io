@@ -29,9 +29,9 @@ high-quality skeleton largely boosts the shape completion
 performance in both CD and EMD scores.
 </p>
 
-[[Project report](http://dylanorange.github.io/dongyuelu.github.io/files/Shape-Completion-with-Meso-Skeleton-Learning.pdf)]
+[[Project report](http://dylanorange.github.io/files/Shape-Completion-with-Meso-Skeleton-Learning.pdf)]
 [[code](https://github.com/DylanOrange/Shape-Completion-with-Meso-Skeleton-Learning)]
-[[poster](http://dylanorange.github.io/dongyuelu.github.io/files/shape-poster.png)]
+[[poster](http://dylanorange.github.io/files/shape-poster.png)]
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 

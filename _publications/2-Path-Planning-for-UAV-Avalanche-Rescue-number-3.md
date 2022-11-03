@@ -33,5 +33,5 @@ has been proved to be much higher than that of humans, which
 provides a simulation basis for future practical applications.
 </p>
 
-[[Project report](http://dylanorange.github.io/dongyuelu.github.io/files/UAV.pdf)]
+[[Project report](http://dylanorange.github.io/files/UAV.pdf)]
 [[code](https://github.com/DylanOrange/Path-Planning-for-UAV-Avalanche-Rescue)]
