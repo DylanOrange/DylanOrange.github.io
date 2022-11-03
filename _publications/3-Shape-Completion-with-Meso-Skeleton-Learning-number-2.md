@@ -31,7 +31,7 @@ performance in both CD and EMD scores.
 
 [[Project report](http://dylanorange.github.io/dongyuelu.github.io/files/Shape-Completion-with-Meso-Skeleton-Learning.pdf)]
 [[code](https://github.com/DylanOrange/Shape-Completion-with-Meso-Skeleton-Learning)]
-[[poster](http://dylanorange.github.io/dongyuelu.github.io/files/shape.png)]
+[[poster](http://dylanorange.github.io/dongyuelu.github.io/files/shape-poster.png)]
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 

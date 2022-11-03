@@ -11,9 +11,9 @@ title                    : "Dongyue Lu / Personal Page"
 title_separator          : "-"
 name                     : &name "Dongyue Lu"
 description              : &description "Master student at TUM"
-url                      : https://dylanorange.github.io/dongyuelu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://dylanorange.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "DylanOrange/dongyuelu.github.io"
+repository               : "DylanOrange/DylanOrange.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
