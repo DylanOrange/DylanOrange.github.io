@@ -9,19 +9,21 @@ permalink: /publication/Stereo-Reconstruction
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-
 <center>
-CAIXUKUN, Dekai Zhu, <b>Dongyue Lu</b>, Qianyi Yang, Weihua Huang <br /> 
+KUNKUN, Dekai Zhu, <b>Dongyue Lu</b>, Qianyi Yang, Weihua Huang <br /> 
 Technical University of Munich 
 </center>
 
-<p align = "center">
+
+![shape](../files/stereo.png)
+
+<!-- <p align = "center">
 <img src = ../files/3doverview.png alt = 'scene' height = 10% width = 70% />
 </p>
 
 <p align = "center"> 
 <img src = ../files/disparity.png alt = 'scene' height = 10% width = 70% />
-</p>
+</p> -->
 
 
 <p align = "justify"> 

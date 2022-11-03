@@ -9,18 +9,12 @@ permalink: /publication/Path-Planning-for-UAV-Avalanche-Rescue
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
-
 <center>
 <b>Dongyue Lu</b>, Yunfeng Kang, Xuhui Zhang, Yamo Akrami, Yuhang Cai <br /> 
 Technical University of Munich 
 </center>
 
-<p align = "center">
-<img src = ../files/scene.png alt = 'scene' height = 10% width = 70% />
- </p>
-<p align = "center">
-<img src = ../files/UAV-result.png alt = 'scene' height = 10% width = 70% />
-</p>
+![uav](../files/uav.png)
 
 <p align = "justify"> 
 UAV has great application potential in avalanche rescue.

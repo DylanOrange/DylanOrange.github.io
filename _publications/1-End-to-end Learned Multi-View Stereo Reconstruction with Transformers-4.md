@@ -9,17 +9,18 @@ permalink: /publication/End-to-end Learned Multi-View Stereo Reconstruction with
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
 
-
 <center>
 <b>Dongyue Lu</b>, Zhisheng Zheng <br /> 
 Supervisor: Prof. Dr. Matthias Nießner <br /> 
 Technical University of Munich 
 </center>
 
-<p align = "center">
+<!-- <p align = "center">
 <img src = ../files/overview.png alt = 'scene' height = 10% width = 80% />
 <img src = ../files/result.png alt = 'scene' height = 10% width = 80% />
-</p>
+</p> -->
+
+![mvs](../files/mvs.png)
 
 <p align = "justify"> 
 Multi-view stereopsis is a significant topic in computer

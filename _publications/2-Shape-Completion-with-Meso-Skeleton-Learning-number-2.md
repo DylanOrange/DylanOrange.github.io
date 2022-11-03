@@ -9,17 +9,13 @@ permalink: /publication/Shape-Completion-with-Meso-Skeleton-Learning
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
-
 <center>
 <b>Dongyue Lu</b>, Zhisheng Zheng <br /> 
 Supervisor: Dr. Yinyu Nie <br /> 
 Technical University of Munich 
 </center>
 
-<p align = "center">
-<img src = ../images/ad.png alt = 'scene' height = 10% width = 100% />
-</p>
-
+![shape](../images/ad.png)
 
 <p align = "justify"> 
 Point cloud completion is a significant topic in computer
