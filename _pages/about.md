@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Dongyue Lu"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-
-Master Student in Robotics, Cognition, Intelligence in Department of Informatics, Technical University of Munich.
-
+<!-- <p align = "justify">  -->
 I am currently a Master student in [Smart Robotics Lab](https://mlr.in.tum.de/) at the Department of Informatics, Technical University of Munich, supervised by [Dr.Xingxing Zuo](https://mlr.in.tum.de/members/zuox) and working with [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan). Previously, I did some research projects supervised by [Dr.Yinyu Nie](https://niessnerlab.org/members/yinyu_nie/profile.html) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) in the [Visual Computing & Artificial Intelligence Lab](https://niessnerlab.org/) at TUM. Before that, I graduated with honors and obtained my Bachelor degree in vehicle engineering in Tongji University, Shanghai, China, in 2020.
+<!-- </p> -->
 
+Interests
+======
+<p align = "justify"> 
 My research interest lies in enhancing classical 3D vision, e.g., enabling visual odometry/simultaneous localization and mapping (SLAM) to operate and model environment in dynamic scenes with the help of deep neural networks, especially combining deep neural networks with traditional optimization-based methods.
+</p>
 
 <!-- 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).

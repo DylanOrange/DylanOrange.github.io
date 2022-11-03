@@ -1,5 +1,5 @@
 ---
-title: "Shape Completion with Meso-Skeleton Learning."
+title: "Shape Completion with Meso-Skeleton Learning"
 collection: publications
 permalink: /publication/Shape-Completion-with-Meso-Skeleton-Learning
 # excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
@@ -8,7 +8,18 @@ permalink: /publication/Shape-Completion-with-Meso-Skeleton-Learning
 # paperurl: 'http://dylanorange.github.io/dongyuelu.github.io/files/Shape-Completion-with-Meso-Skeleton-Learning.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-![avatar](../files/poster.png)
+<center>
+<b>Dongyue Lu</b>, Zhisheng Zheng
+
+Supervisor: Dr. Yinyu Nie
+
+Technical University of Munich 
+</center>
+
+<p align = "center">
+<img src = ../images/ad.png alt = 'scene' height = 10% width = 100% />
+</p>
+
 
 <p align = "justify"> 
 Point cloud completion is a significant topic in computer
@@ -22,6 +33,7 @@ performance in both CD and EMD scores.
 
 [[Project report](http://dylanorange.github.io/dongyuelu.github.io/files/Shape-Completion-with-Meso-Skeleton-Learning.pdf)]
 [[code](https://github.com/DylanOrange/Shape-Completion-with-Meso-Skeleton-Learning)]
+[[poster](http://dylanorange.github.io/dongyuelu.github.io/files/shape.png)]
 
 <!-- Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
 
