@@ -11,10 +11,8 @@ permalink: /publication/End-to-end Learned Multi-View Stereo Reconstruction with
 
 
 <center>
-<b>Dongyue Lu</b>, Zhisheng Zheng
-
-Supervisor: Prof. Dr. Matthias Nießner
-
+<b>Dongyue Lu</b>, Zhisheng Zheng <br /> 
+Supervisor: Prof. Dr. Matthias Nießner <br /> 
 Technical University of Munich 
 </center>
 

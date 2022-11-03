@@ -11,16 +11,15 @@ permalink: /publication/Stereo-Reconstruction
 
 
 <center>
-caixukun, Dekai Zhu, <b>Dongyue Lu</b>, Qianyi Yang, Weihua Huang
-
+CAIXUKUN, Dekai Zhu, <b>Dongyue Lu</b>, Qianyi Yang, Weihua Huang <br /> 
 Technical University of Munich 
 </center>
 
 <p align = "center">
 <img src = ../files/3doverview.png alt = 'scene' height = 10% width = 70% />
-<!-- </p>
+</p>
 
-<p align = "center"> -->
+<p align = "center"> 
 <img src = ../files/disparity.png alt = 'scene' height = 10% width = 70% />
 </p>
 
