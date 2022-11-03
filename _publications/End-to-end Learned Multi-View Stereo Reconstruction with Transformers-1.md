@@ -8,6 +8,8 @@ permalink: /publication/End-to-end Learned Multi-View Stereo Reconstruction with
 # paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 # citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
+
+
 <center>
 <b>Dongyue Lu</b>, Zhisheng Zheng
 
@@ -18,9 +20,6 @@ Technical University of Munich
 
 <p align = "center">
 <img src = ../files/overview.png alt = 'scene' height = 10% width = 80% />
-<!-- </p>
-
-<p align = "center"> -->
 <img src = ../files/result.png alt = 'scene' height = 10% width = 80% />
 </p>
 

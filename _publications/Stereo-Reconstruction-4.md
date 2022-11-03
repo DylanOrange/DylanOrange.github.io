@@ -8,8 +8,10 @@ permalink: /publication/Stereo-Reconstruction
 # paperurl: 'http://dylanorange.github.io/dongyuelu.github.io/files/Shape-Completion-with-Meso-Skeleton-Learning.pdf'
 # citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
+
+
 <center>
-Dekai Zhu, <b>Dongyue Lu</b>, Qianyi Yang, Weihua Huang
+caixukun, Dekai Zhu, <b>Dongyue Lu</b>, Qianyi Yang, Weihua Huang
 
 Technical University of Munich 
 </center>
