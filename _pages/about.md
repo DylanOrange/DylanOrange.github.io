@@ -9,13 +9,15 @@ redirect_from:
 ---
 
 <!-- <p align = "justify">  -->
-I am currently a Master student in [Smart Robotics Lab](https://mlr.in.tum.de/) at the Department of Informatics, Technical University of Munich, supervised by [Dr.Xingxing Zuo](https://mlr.in.tum.de/members/zuox) and working with [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan). Previously, I did some research projects supervised by [Dr.Yinyu Nie](https://niessnerlab.org/members/yinyu_nie/profile.html) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) in the [Visual Computing & Artificial Intelligence Lab](https://niessnerlab.org/) at TUM. Before that, I graduated with honors and obtained my Bachelor degree in vehicle engineering in Tongji University, Shanghai, China, in 2020.
+I am currently a Master student in [Smart Robotics Lab](https://mlr.in.tum.de/) at the Department of Informatics, Technical University of Munich, supervised by [Dr.Xingxing Zuo](https://mlr.in.tum.de/members/zuox) and [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan). Previously, I did guided research projects under the supervision of  [Dr.Yinyu Nie](https://niessnerlab.org/members/yinyu_nie/profile.html) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) in the [Visual Computing & Artificial Intelligence Lab](https://niessnerlab.org/) at TUM. Before that, I graduated with honors and obtained my Bachelor degree in vehicle engineering in Tongji University, Shanghai, China, in 2020.
 <!-- </p> -->
 
 Interests
 ======
 <!-- <p align = "justify">  -->
-My research interest lies in enhancing classical 3D vision, e.g., enabling visual odometry/simultaneous localization and mapping (SLAM) to operate and model environment in dynamic scenes with the help of deep neural networks, especially combining deep neural networks with traditional optimization-based methods.
+My research interest lies in 3D computer vision and robotic perception.
+I am currently working on enabling classic 3D vision
+ e.g. simultaneous localization and mapping (SLAM) to operate in more complex environments, enhancing its ability to model dynamic environments with the help of deep neural networks. I enjoy combining deep learning with traditional optimization-based methods.
 <!-- </p> -->
 
 <!-- 
