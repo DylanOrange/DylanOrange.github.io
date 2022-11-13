@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.sc. Vehicle Engineering, Tongji University, 2020
-* M.sc. Robotics, Cognition, Intelligence, Technical University of Munich, 2023 (expected)
+* B.sc. Vehicle Engineering (GPA: 89.5/95), Tongji University, 2020
+* M.sc. Robotics, Cognition, Intelligence (GPA: 1.4/1.0), Technical University of Munich, 2023 (expected)
 
 Prizes
 ======
