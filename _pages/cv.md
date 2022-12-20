@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
+[[PDF CV](http://dylanorange.github.io/files/cv.pdf)]
 
 Education
 ======
@@ -25,5 +26,3 @@ Scholarships
 ======
 * The Third Prize of Tongji Scholarship of Excellence (2017, 2019)
 * The First Prize of Tongji Scholarship of Excellence (2018)
-
-[[PDF CV](http://dylanorange.github.io/files/cv.pdf)]
