@@ -13,7 +13,7 @@ permalink: /publication/Shape-Completion-with-Meso-Skeleton-Learning
 
 <center>
 <b>Dongyue Lu</b>, Zhisheng Zheng <br /> 
-Supervisor: Dr. Yinyu Nie, Prof. Dr. Matthias Nießner <br /> 
+Supervisor: Dr. Yinyu Nie <br /> 
 Technical University of Munich 
 </center>
 
@@ -29,7 +29,7 @@ high-quality skeleton largely boosts the shape completion
 performance in both CD and EMD scores.
 </p>
 
-[[Project report](http://dylanorange.github.io/files/Shape-Completion-with-Meso-Skeleton-Learning.pdf)]
+[[Project report](http://dylanorange.github.io/files/shape.pdf)]
 [[code](https://github.com/DylanOrange/Shape-Completion-with-Meso-Skeleton-Learning)]
 [[poster](http://dylanorange.github.io/files/shape-poster.png)]
 
