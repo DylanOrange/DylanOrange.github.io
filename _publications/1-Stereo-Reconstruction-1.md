@@ -13,6 +13,7 @@ permalink: /publication/Stereo-Reconstruction
 
 <center>
 Dekai Zhu, <b>Dongyue Lu</b>, Qianyi Yang, Weihua Huang <br /> 
+Supervisor: Yuchen Rao, Prof. Dr. Angela Dai <br /> 
 Technical University of Munich 
 </center>
 

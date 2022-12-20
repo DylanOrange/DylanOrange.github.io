@@ -13,6 +13,7 @@ permalink: /publication/Path-Planning-for-UAV-Avalanche-Rescue
 
 <center>
 <b>Dongyue Lu</b>, Yunfeng Kang, Xuhui Zhang, Yamo Akrami, Yuhang Cai <br /> 
+Supervisor: Christoph Killing, Prof. Dr. -Ing. Markus Ryll <br /> 
 Technical University of Munich 
 </center>
 

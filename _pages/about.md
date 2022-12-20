@@ -15,9 +15,9 @@ I am currently a Master student in [Smart Robotics Lab](https://mlr.in.tum.de/) 
 Interests
 ======
 <!-- <p align = "justify">  -->
-My research interest lies in 3D computer vision and robotic perception.
-I am currently working on enabling classic 3D vision
- e.g. simultaneous localization and mapping (SLAM) to operate in more complex environments, enhancing its ability to model dynamic environments with the help of deep neural networks. I enjoy combining deep learning with traditional optimization-based methods.
+My research interest lies in 3D computer vision and robotic perception. In general, I work on combining deep learning
+with optimization and probabilistic methods in classical computer vision to enable robots to understand
+our complex world. I am currently conducting research on enabling classic 3D vision e.g. simultaneous localization and mapping (SLAM) to operate in more complex environments, enhancing its ability to model dynamic environments with the help of deep neural networks.
 <!-- </p> -->
 
 <!-- 

@@ -13,7 +13,7 @@ permalink: /publication/Shape-Completion-with-Meso-Skeleton-Learning
 
 <center>
 <b>Dongyue Lu</b>, Zhisheng Zheng <br /> 
-Supervisor: Dr. Yinyu Nie <br /> 
+Supervisor: Dr. Yinyu Nie, Prof. Dr. Matthias Nießner <br /> 
 Technical University of Munich 
 </center>
 
