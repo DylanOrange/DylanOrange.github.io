@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- <p align = "justify">  -->
-I am currently a master's student in [Smart Robotics Lab](https://mlr.in.tum.de/) at the Department of Informatics, Technical University of Munich, supervised by [Dr.Xingxing Zuo](https://mlr.in.tum.de/members/zuox) and [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan). Previously, I did research projects under the supervision of  [Dr.Yinyu Nie](https://niessnerlab.org/members/yinyu_nie/profile.html) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) in the [Visual Computing Lab](https://niessnerlab.org/) at TUM. Before that, I graduated with honors and obtained my Bachelor degree in vehicle engineering in Tongji University, Shanghai, China, in 2020.
+I am currently a master's student in [Smart Robotics Lab](https://mlr.in.tum.de/) at the Department of Informatics, Technical University of Munich, supervised by [Dr. Xingxing Zuo](https://mlr.in.tum.de/members/zuox) and [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan). Previously, I did research projects under the supervision of  [Dr. Yinyu Nie](https://niessnerlab.org/members/yinyu_nie/profile.html) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) in the [Visual Computing Lab](https://niessnerlab.org/) at TUM. Before that, I graduated with honors and obtained my bachelor's degree in vehicle engineering in Tongji University, Shanghai, China, in 2020.
 <!-- </p> -->
 
 Interests
