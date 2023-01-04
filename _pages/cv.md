@@ -27,6 +27,11 @@ Research Experience
     Topic: Shape completion and scene reconstruction<br /> 
     Supervisors: Dr. Yinyu Nie, Prof. Matthias Nießner 
 
+* <b>Institute of Intelligent Vehicles, Tongji University, China.</b>  (January, 2020 - June, 2020)<br /> 
+    Bachelor's student<br /> 
+    Topic: State estimation<br /> 
+    Supervisors: Yishi Lu, Prof. Lu Xiong
+
 Prizes
 ======
 * The Runner-up of Tencent AIMIS Medical Artificial Intelligence Algorithm Competition (2021)
