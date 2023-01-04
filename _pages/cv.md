@@ -12,8 +12,8 @@ redirect_from:
 
 Education
 ======
-* B.Sc. Vehicle Engineering (GPA: 4.44/5.0), Tongji University, 2020
 * M.Sc. Robotics, Cognition, Intelligence (GPA: 1.4/1.0), Technical University of Munich, 2023 (expected)
+* B.Sc. Vehicle Engineering (GPA: 4.44/5.0), Tongji University, 2020
 
 Research Experience
 ======
@@ -34,12 +34,12 @@ Research Experience
 
 Prizes
 ======
-* The Runner-up of Tencent AIMIS Medical Artificial Intelligence Algorithm Competition (2021)
-* The Second Prize of "Huawei Cup" The 17th China Post-graduate Mathematical Contest in Modeling (2020)
-* The Second Prize of China Undergraduate Mathematical Contest in Modeling (2017)
-* The Third Prize of Tongji University Mathematical Contest in Modeling (2017)
+* Runner-up of Tencent AIMIS Medical Artificial Intelligence Algorithm Competition (2021)
+* 2nd Prize of "Huawei Cup" The 17th China Post-graduate Mathematical Contest in Modeling (2020)
+* 2nd Prize of China Undergraduate Mathematical Contest in Modeling (2017)
+* 3rd Prize of Tongji University Mathematical Contest in Modeling (2017)
 
 Scholarships
 ======
-* The Third Prize of Tongji Scholarship of Excellence (2017, 2019)
-* The First Prize of Tongji Scholarship of Excellence (2018)
+* 3rd Prize of Tongji Scholarship of Excellence (2017, 2019)
+* 1st Prize of Tongji Scholarship of Excellence (2018)
