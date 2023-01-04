@@ -15,6 +15,18 @@ Education
 * B.Sc. Vehicle Engineering (GPA: 4.44/5.0), Tongji University, 2020
 * M.Sc. Robotics, Cognition, Intelligence (GPA: 1.4/1.0), Technical University of Munich, 2023 (expected)
 
+Research Experience
+======
+* <b>Smart Robotics Lab, Technical University of Munich, Germany.</b> (May, 2022 - Present)
+    Master's student<br /> 
+    Topics: Dynamic SLAM<br /> 
+    Supervioses: Dr. Xingxing Zuo, Prof. Stefan Leutenegger
+
+* <b>Visual Computing Lab, Technical University of Munich, Germany.</b>  (April, 2021 - March,2022)
+    Master's student<br /> 
+    Topics: Shape completion and scene reconstruction<br /> 
+    Dr. Yinyu Nie, Prof. Matthias Nießner 
+
 Prizes
 ======
 * The Second Place Finalist in Tencent AIMIS Medical Artificial Intelligence Algorithm Competition (2021)
