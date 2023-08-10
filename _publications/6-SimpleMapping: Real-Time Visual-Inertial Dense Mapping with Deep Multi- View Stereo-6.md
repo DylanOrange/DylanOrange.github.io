@@ -6,7 +6,9 @@ permalink: /publication/SimpleMapping:Real-Time Visual-Inertial Dense Mapping wi
 # date: 2015-10-01
 # venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2306.08648'
-citation: 'Xin, Y., Zuo, X., Lu, D., & Leutenegger, S. (2023). SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo. arXiv preprint arXiv:2306.08648.'
+citation: 'Yingye Xin, Xingxing Zuo, Dongyue Lu, and Stefan Leutenegger. Simplemapping: Real-time
+visual-inertial dense mapping with deep multi-view stereo. In 22nd IEEE International Symposium
+on Mixed and Augmented Reality (ISMAR). IEEE, 2023.'
 ---
 
 <!-- Ongoing -->
