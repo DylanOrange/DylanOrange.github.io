@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Dongyue Lu / Personal Page"
 title_separator          : "-"
 name                     : &name "Dongyue Lu"
-description              : &description "Master student at TUM"
+description              : &description "Research Intern at NUS"
 url                      : https://dylanorange.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "DylanOrange/DylanOrange.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Dongyue Lu"
   avatar           : "me.jpeg"
-  bio              : "Master's student at TUM"
-  location         : "Munich, Germany"
+  bio              : "Research Intern at NUS"
+  location         : "Singapore"
   employer         :
   pubmed           : 
   googlescholar    : 

@@ -1,17 +1,15 @@
 ---
-title: "SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-
-View Stereo"
+title: "SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo"
 collection: publications
-permalink: /publication/SimpleMapping:Real-Time Visual-Inertial Dense Mapping with Deep Multi-
-View Stereo
+permalink: /publication/SimpleMapping:Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2015-10-01
 # venue: 'Journal 1'
-paperurl: 'https://arxiv.org/abs/2306.08648'
-citation: 'Xin, Y., Zuo, X., Lu, D., & Leutenegger, S. (2023). SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo. arXiv preprint arXiv:2306.08648.'
+# paperurl: 'https://arxiv.org/abs/2306.08648'
+# citation: 'Xin, Y., Zuo, X., Lu, D., & Leutenegger, S. (2023). SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo. arXiv preprint arXiv:2306.08648.'
 ---
 
-<!-- Ongoing -->
+Ongoing
 
 <center>
 Yingye Xin, Xingxing Zuo, Dongyue Lu, Stefan Leutenegger <br /> 
