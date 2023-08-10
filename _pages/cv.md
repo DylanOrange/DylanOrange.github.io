@@ -12,12 +12,17 @@ redirect_from:
 
 Education
 ======
-* M.Sc. Robotics, Cognition, Intelligence (GPA: 1.4/1.0), Technical University of Munich, 2023 (expected)
+* M.Sc. Robotics, Cognition, Intelligence (GPA: 1.3/1.0), Technical University of Munich, 2023 (expected)
 * B.Sc. Vehicle Engineering (GPA: 4.44/5.0), Tongji University, 2020
 
 Research Experience
 ======
-* <b>Smart Robotics Lab, Technical University of Munich, Germany.</b> (May, 2022 - Present)<br /> 
+* <b>Computer Vision and Robotic Perception(CVRP) Laboratory, National University of Singapore, Singapore.</b>  (July, 2023 - present)<br /> 
+    Research Intern<br /> 
+    Topic: Dynamic Scene Modeling<br /> 
+    Supervisors: Prof.Gim Hee Lee
+
+* <b>Smart Robotics Lab, Technical University of Munich, Germany.</b> (May, 2022 - June, 2023)<br /> 
     Master's student<br /> 
     Topic: Dynamic SLAM<br /> 
     Supervisors: Dr. Xingxing Zuo, Prof. Stefan Leutenegger

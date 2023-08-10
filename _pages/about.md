@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <!-- <p align = "justify">  -->
-I am currently a master's student in the [Smart Robotics Lab](https://mlr.in.tum.de/) at the Technical University of Munich, supervised by [Dr. Xingxing Zuo](https://mlr.in.tum.de/members/zuox) and [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan). Previously, I did research projects under the supervision of  [Dr. Yinyu Nie](https://niessnerlab.org/members/yinyu_nie/profile.html) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) in the [Visual Computing Lab](https://niessnerlab.org/) at TUM. Before that, I graduated with honors and obtained my bachelor's degree in vehicle engineering in Tongji University, Shanghai, China, in 2020.
+I am currently a research intern in the Computer Vision and Robotic Perception(CVRP) Laboratory at National Univerisity of Singapore(NUS), supervised by [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). Previously, I worked closely with [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) at Technical University of Munich(TUM), where I also got my Master's degree in Robotics, Cognition, Intelligence in July, 2023. Before that, I graduated with honors and obtained my bachelor's degree in vehicle engineering at Tongji University, Shanghai, China, in 2020.
 <!-- </p> -->
 
 Interests

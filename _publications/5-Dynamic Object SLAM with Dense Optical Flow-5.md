@@ -1,7 +1,7 @@
 ---
-title: "Dynamic Object Tracking and Reconstruction with Dense Optical Flow"
+title: "Dynamic Object SLAM with Dense Optical Flow"
 collection: publications
-permalink: /publication/Dynamic Object Tracking and Reconstruction with Dense Optical Flow
+permalink: /publication/Dynamic Object SLAM with Dense Optical Flow
 # excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
 # date: 2015-10-01
 # venue: 'Journal 1'
