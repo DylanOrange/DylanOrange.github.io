@@ -19,15 +19,8 @@ on Mixed and Augmented Reality (ISMAR). IEEE, 2023.'
 </p> -->
 
 [![demo video](https://res.cloudinary.com/marcomontalbano/image/upload/v1691648995/video_to_markdown/images/youtube--R68sEMhEDNU-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=R68sEMhEDNU "demo video")
-
+[[More Detial](https://yingyexin.github.io/simplemapping.html)]
 <center>
 Yingye Xin, Xingxing Zuo, Dongyue Lu, Stefan Leutenegger <br /> 
 Technical University of Munich 
 </center>
-
-<p align = "justify"> 
-We present a real-time visual-inertial dense mapping method capable of performing incremental 3D mesh reconstruction with high quality using only sequential monocular images and inertial measurement unit (IMU) readings. 6-DoF camera poses are estimated by a robust feature-based visual-inertial odometry (VIO), which also generates noisy sparse 3D map points as a by-product. We propose a sparse point aided multi-view stereo neural network (SPA-MVSNet) that can effectively leverage the informative but noisy sparse points from the VIO system. The sparse depth from VIO is firstly completed by a single-view depth completion network. This dense depth map, although naturally limited in accuracy, is then used as a prior to guide our MVS network in the cost volume generation and regularization for accurate dense depth prediction. Predicted depth maps of keyframe images by the MVS network are incrementally fused into a global map using TSDF-Fusion. We extensively evaluate both the proposed SPA-MVSNet and the entire visual-inertial dense mapping system on several public datasets as well as our own dataset, demonstrating the system's impressive generalization capabilities and its ability to deliver high-quality 3D mesh reconstruction online. Our proposed dense mapping system achieves a 39.7% improvement in F-score over existing systems when evaluated on the challenging scenarios of the EuRoC dataset. 
-</p>
-
-<!-- [[Project report](http://dylanorange.github.io/files/mvs.pdf)]
-[[code](https://github.com/DylanOrange/End-to-end-Learned-Multi-View-Stereo-Reconstruction-with-Transformers)] -->

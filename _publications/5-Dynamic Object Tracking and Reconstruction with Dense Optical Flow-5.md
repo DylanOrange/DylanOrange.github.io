@@ -30,7 +30,6 @@ This project focuses on the pose and shape estimation of dynamic objects in a le
 A GRU update operator takes the extracted correlation features and context features as input and updates the optical flow iteratively.
 After instance segmentation, the flow of static regions can be used to estimate camera pose, and dynamic regions are used to estimate dynamic object pose.
 A differentiable dynamic dense bundle adjustment layer is constructed to jointly optimize camera pose and object pose and maximize their compatibility with current optical flow estimation.
-Based on the already optimized object pose, object shape is estimated through joint optimization using class-specific deep shape embeddings as priors.
 </p>
 
 <!-- [[Project report](http://dylanorange.github.io/files/mvs.pdf)]
