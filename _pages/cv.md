@@ -17,7 +17,7 @@ Education
 
 Research Experience
 ======
-* <b>Computer Vision and Robotic Perception(CVRP) Laboratory, National University of Singapore, Singapore.</b>  (July, 2023 - present)<br /> 
+* <b>Computer Vision and Robotic Perception(CVRP) Laboratory, National University of Singapore, Singapore.</b>  (August, 2023 - present)<br /> 
     Research Intern<br /> 
     Topic: Dexterous Hand-Object Reconstruction<br /> 
     Supervisors: Prof.Gim Hee Lee
