@@ -32,5 +32,7 @@ After instance segmentation, the flow of static regions can be used to estimate 
 A differentiable dynamic dense bundle adjustment layer is constructed to jointly optimize camera pose and object pose and maximize their compatibility with current optical flow estimation.
 </p>
 
+[[Presentation](http://dylanorange.github.io/files/slides.pdf)]
+[[code](https://github.com/DylanOrange/DROID-SLAM/tree/vkitti-allscene)]
 <!-- [[Project report](http://dylanorange.github.io/files/mvs.pdf)]
 [[code](https://github.com/DylanOrange/End-to-end-Learned-Multi-View-Stereo-Reconstruction-with-Transformers)] -->

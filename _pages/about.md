@@ -17,7 +17,7 @@ Interests
 <!-- <p align = "justify">  -->
 My research interest lies in 3D computer vision and robotic perception. In general, I work on combining deep learning
 with optimization and probabilistic methods in classical computer vision to enable robots to understand
-our complex world. I am currently conducting research on enabling classic 3D vision e.g. simultaneous localization and mapping (SLAM) to operate in more complex environments, enhancing its ability to model dynamic environments with the help of deep neural networks.
+our complex world.
 <!-- </p> -->
 
 <!-- 
