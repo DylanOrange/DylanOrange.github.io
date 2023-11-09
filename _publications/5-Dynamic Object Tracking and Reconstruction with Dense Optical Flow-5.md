@@ -48,7 +48,7 @@ of the proposed approach, even in the presence of severe occlusions and limited 
 ![arch](../files/thesis_arch.png)
 
 <p align = "justify"> 
-The input images undergo a series of processing steps. First, they are passed through an iterative optical flow estimator to determine the correspondence between frames. Subsequently, the image is segmented using instance segmentation techniques. We then proceed to estimate the camera pose and dynamic object pose through a differentiable dynamic bundle adjustment layer, which is solved using a Gauss-Newton optimization approach. This layer produces depth and pose residuals to maximize the compatibility between the updated correspondence induced by depth and pose and the correspondence estimated by the network. The updated correspondence is then fed back into the optical flow estimator until the depth, pose, and flow converge.
+The input images are passed through an iterative optical flow estimator to determine the correspondence between frames, and Mask-RCNN is used to segment static and dynamic regions. We then proceed to estimate the camera pose and dynamic object pose through a differentiable dynamic bundle adjustment layer given the estimated correspondence, which is solved using Gauss-Newton optimization. This layer produces depth and pose residuals to maximize the compatibility between the updated correspondence induced by depth and pose and the correspondence estimated by the network. The updated correspondence is then fed back into the optical flow estimator until the depth, pose, and correspondence converge.
 </p>
 
 ---
