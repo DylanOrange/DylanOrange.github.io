@@ -12,12 +12,12 @@ redirect_from:
 I am currently a research intern in the Computer Vision and Robotic Perception(CVRP) Laboratory at National Univerisity of Singapore(NUS), supervised by [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). Previously, I worked closely with [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) at Technical University of Munich(TUM), where I also got my Master's degree in Robotics, Cognition, Intelligence in July, 2023. Before that, I graduated with honors and obtained my bachelor's degree in vehicle engineering at Tongji University, Shanghai, China, in 2020.
 <!-- </p> -->
 
-Interests
+<!-- Interests
 ======
 <!-- <p align = "justify">  -->
-My research interest lies in 3D computer vision and robotic perception. In general, I work on combining deep learning
+<!-- My research interest lies in 3D computer vision and robotic perception. In general, I work on combining deep learning
 with optimization and probabilistic methods in classical computer vision to enable robots to understand
-our complex world.
+our complex world. --> 
 <!-- </p> -->
 
 <!-- 
