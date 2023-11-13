@@ -38,5 +38,5 @@ reconstructed windows. Our method is able to learn the local smoothness and glob
 interactive rates. Experiments on ScanNet show that the reconstruction quality and efficiency of our method are comparable to current state-of-the-art methods.
 </p>
 
-[[Project report](http://dylanorange.github.io/files/mvs.pdf)]
+[[Project report](http://dylanorange.github.io/files/MVS.pdf)]
 [[code](https://github.com/DylanOrange/End-to-end-Learned-Multi-View-Stereo-Reconstruction-with-Transformers)]
