@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dongyue Lu Personal Page"
+title                    : "Dongyue Lu/Personal Page"
 title_separator          : "-"
 name                     : &name "Dongyue Lu"
 description              : &description "Welcome to my personal page! I am currently a PhD candidate at National Univeristy of Singapore, working on research related to 3D computer vision."
