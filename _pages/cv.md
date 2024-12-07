@@ -8,12 +8,11 @@ redirect_from:
 ---
 
 {% include base_path %}
-[[PDF CV](http://dylanorange.github.io/files/CV.pdf)]
 
 Education
 ======
-* M.Sc. Robotics, Cognition, Intelligence (GPA: 1.3/1.0), Technical University of Munich, 2023
-* B.Sc. Vehicle Engineering (GPA: 4.44/5.0), Tongji University, 2020
+* M.Sc. Robotics, Cognition, Intelligence, Technical University of Munich, 2023
+* B.Sc. Vehicle Engineering, Tongji University, 2020
 
 Research Experience
 ======
@@ -37,7 +36,7 @@ Research Experience
     Topic: State estimation<br /> 
     Supervisors: Yishi Lu, Prof. Lu Xiong
 
-Prizes
+<!-- Prizes
 ======
 * Runner-up of Tencent AIMIS Medical Artificial Intelligence Algorithm Competition (2021)
 * 2nd Prize of "Huawei Cup" The 17th China Post-graduate Mathematical Contest in Modeling (2020)
@@ -47,4 +46,4 @@ Prizes
 Scholarships
 ======
 * 3rd Prize of Tongji Scholarship of Excellence (2017, 2019)
-* 1st Prize of Tongji Scholarship of Excellence (2018)
+* 1st Prize of Tongji Scholarship of Excellence (2018) -->
