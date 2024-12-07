@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Dongyue Lu/Personal Page"
+title                    : "Dongyue Lu's Personal Page"
 title_separator          : "-"
 name                     : &name "Dongyue Lu"
 description              : &description "Welcome to my personal page! I am currently a PhD candidate at National Univeristy of Singapore, working on research related to 3D computer vision."
@@ -21,10 +21,10 @@ repository               : "DylanOrange/dylanorange.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ldy.jpg"
+  avatar           : "my_photo.jpg"
   name             : "Dongyue Lu"
   pronouns         : # example: "she/her"  
-  bio              : "PhD student at National University of Singapore."
+  bio              : "Ph.D. student at the National University of Singapore"
   location         : "Singapore"
   employer         : # "National University of Singapore"
   uri              : # URL
