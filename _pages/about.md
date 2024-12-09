@@ -19,7 +19,7 @@ Publications
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="files/geal2.png" alt="GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://geal.github.io" style="text-decoration: none;">GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency</a></h3>
+    <h3 style="margin: 0;"><a href="http://dylanorange.github.io/files/geal.pdf" style="text-decoration: none;">GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency</a></h3>
     <p style="margin: 5px 0;">
           <strong>Dongyue Lu</strong>,
           <a href="https://ldkong.com/">Lingdong Kong</a>,
@@ -27,8 +27,8 @@ Publications
           <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>
           <br>
       Arxiv, 2024<br>
-      <a href="https://geal.github.io" style="text-decoration: none; ">[Project Page]</a>
-      <!-- <a href="https://arxiv.org/pdf/2412.00734" style="text-decoration: none;">[Arxiv]</a>  -->
+      <a href="https://dylanorange.github.io/projects/geal" style="text-decoration: none; ">[Project Page]</a>
+      <a href="http://dylanorange.github.io/files/geal.pdf" style="text-decoration: none;">[Paper]</a> 
       <!-- <a href="https://github.com/HLinChen/ChatSplat" style="text-decoration: none;">[Code]</a> -->
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
@@ -41,7 +41,7 @@ Publications
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="files/flexevent_demo.gif" alt="FlexEvent: Event Camera Object Detection at Arbitrary Frequencies" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://flexeventtest.github.io" style="text-decoration: none;">FlexEvent: Event Camera Object Detection at Arbitrary Frequencies</a></h3>
+    <h3 style="margin: 0;"><a href="http://dylanorange.github.io/files/flexevent.pdf" style="text-decoration: none;">FlexEvent: Event Camera Object Detection at Arbitrary Frequencies</a></h3>
     <p style="margin: 5px 0;">
           <strong>Dongyue Lu</strong>,
           <a href="https://ldkong.com/">Lingdong Kong</a>,
@@ -51,9 +51,9 @@ Publications
           <br>
       Arxiv, 2024<br>
       <!-- color: #0073e6; -->
-      <a href="https://flexeventtest.github.io" style="text-decoration: none; ">[Project Page]</a>
-      <!-- <a href="https://arxiv.org/pdf/2406.05774" style="text-decoration: none;">[Arxiv]</a>  -->
-      <!-- <a href="https://github.com/HLinChen/VCR-GauS" style="text-decoration: none;">[Code]</a> -->
+      <a href="https://flexevent.github.io" style="text-decoration: none; ">[Project Page]</a>
+      <a href="http://dylanorange.github.io/files/flexevent.pdf" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://github.com/DylanOrange/flexevent" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
