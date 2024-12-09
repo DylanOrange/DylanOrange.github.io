@@ -47,7 +47,7 @@ Publications
           <a href="https://ldkong.com/">Lingdong Kong</a>,
           <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>,
           <a href="https://scholar.google.at/citations?user=mbMNjekAAAAJ&hl=en">Camille Simon Chane</a>,
-          <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
+          <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>
           <br>
       Arxiv, 2024<br>
       <!-- color: #0073e6; -->
