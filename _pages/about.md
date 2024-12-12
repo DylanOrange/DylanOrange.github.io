@@ -17,7 +17,7 @@ Publications
 ======
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="projects/geal/static/videos/webpage.mp4" alt="GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="projects/geal/static/videos/webpage.gif" alt="GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="http://dylanorange.github.io/projects/geal/static/files/geal.pdf" style="text-decoration: none;">GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency</a></h3>
     <p style="margin: 5px 0;">
