@@ -19,7 +19,7 @@ Publications
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="projects/geal/static/videos/webpage.gif" alt="GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="http://dylanorange.github.io/projects/geal/static/files/geal.pdf" style="text-decoration: none;">GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency</a></h3>
+    <h3 style="margin: 0;"><a href="https://arxiv.org/pdf/2412.09511" style="text-decoration: none;">GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency</a></h3>
     <p style="margin: 5px 0;">
           <strong>Dongyue Lu</strong>,
           <a href="https://ldkong.com/">Lingdong Kong</a>,
@@ -28,8 +28,10 @@ Publications
           <br>
       Arxiv, 2024<br>
       <a href="https://dylanorange.github.io/projects/geal" style="text-decoration: none; ">[Project Page]</a>
-      <a href="http://dylanorange.github.io/projects/geal/static/files/geal.pdf" style="text-decoration: none;">[Paper]</a> 
-      <!-- <a href="https://github.com/HLinChen/ChatSplat" style="text-decoration: none;">[Code]</a> -->
+      <a href="https://arxiv.org/abs/2412.09511" style="text-decoration: none;">[Arxiv]</a>
+      <a href="https://arxiv.org/pdf/2412.09511" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://github.com/DylanOrange/geal" style="text-decoration: none;">[Code]</a>
+      <a href="https://huggingface.co/datasets/dylanorange/geal" style="text-decoration: none;">[Data]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -66,7 +68,7 @@ Publications
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="files/demo_720.gif" alt="SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://yingyexin.github.io/simplemapping.html" style="text-decoration: none;">SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo</a></h3>
+    <h3 style="margin: 0;"><a href="https://arxiv.org/pdf/2306.08648" style="text-decoration: none;">SimpleMapping: Real-Time Visual-Inertial Dense Mapping with Deep Multi-View Stereo</a></h3>
     <p style="margin: 5px 0;">
           <a href="https://yingyexin.github.io/">Yingye Xin</a>,
           <a href="https://xingxingzuo.github.io/">Xingxing Zuo</a>,
