@@ -11,7 +11,7 @@ redirect_from:
 ---
 
 <!-- <p align = "justify">  -->
-I am a first-year Ph.D. student in Computer Science at the Computer Vision and Robotic Perception (CVRP) Laboratory at the National University of Singapore (NUS), under the supervision of [Prof. Gim Hee Lee](https://www.comp.nus.edu.sg/~leegh/). Prior to this, I collaborated with [Dr. Xingxing Zuo](https://xingxingzuo.github.io/), [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan), and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) at the Technical University of Munich (TUM), where I got my Master’s degree in Robotics, Cognition, and Intelligence with distinction. Prior to that, I completed my Bachelor’s degree in Vehicle Engineering at Tongji University in Shanghai, China.
+I am a first-year Ph.D. student in Computer Science at the National University of Singapore (NUS). Prior to this, I collaborated with [Dr. Xingxing Zuo](https://xingxingzuo.github.io/), [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan), and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) at the Technical University of Munich (TUM), where I got my Master’s degree in Robotics, Cognition, and Intelligence with distinction. Prior to that, I completed my Bachelor’s degree in Vehicle Engineering at Tongji University in Shanghai, China.
 
 Publications
 ======
