@@ -25,13 +25,60 @@ Publications
           <a href="https://ldkong.com/">Lingdong Kong</a>,
           <a href="https://tianxinhuang.github.io/">Tianxin Huang</a>,
           <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>
-          <br>
-      Arxiv, 2024<br>
+          <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025<br>
       <a href="https://dylanorange.github.io/projects/geal" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://arxiv.org/abs/2412.09511" style="text-decoration: none;">[Arxiv]</a>
       <a href="https://arxiv.org/pdf/2412.09511" style="text-decoration: none;">[Paper]</a> 
       <a href="https://github.com/DylanOrange/geal" style="text-decoration: none;">[Code]</a>
       <a href="https://huggingface.co/datasets/dylanorange/geal" style="text-decoration: none;">[Data]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/eventfly_teaser.png" alt="EventFly: Event Camera Perception from Ground to the Sky" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://dylanorange.github.io/404/" style="text-decoration: none;">EventFly: Event Camera Perception from Ground to the Sky</a></h3>
+    <p style="margin: 5px 0;">
+          <a href="https://ldkong.com/">Lingdong Kong</a>,
+          <strong>Dongyue Lu</strong>,
+          <a href="https://xiangxu-0103.github.io/">Xiang Xu</a>,
+          <a href="https://ipal.cnrs.fr/lai-xing-ng/">Lai Xing Ng</a>,
+          <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
+          <a href="https://cerco.cnrs.fr/page-benoit-cottereau/">Benoit R. Cottereau</a>
+          <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025<br>
+      <a href="https://dylanorange.github.io/404/" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://dylanorange.github.io/404/" style="text-decoration: none;">[Arxiv]</a>
+      <a href="https://dylanorange.github.io/404/" style="text-decoration: none;">[Paper]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/rchi_pipeline.jpg" alt="Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://dylanorange.github.io/404/" style="text-decoration: none;">Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning</a></h3>
+    <p style="margin: 5px 0;">
+          <a href="http://www.buzhenhuang.com/">Buzhen Huang</a>,
+          <a href="https://chaneyddtt.github.io/">Chen Li</a>,
+          <a href="https://github.com/Wil909">Chongyang Xu</a>,
+          <strong>Dongyue Lu</strong>,
+          <a href="https://jinnan-chen.github.io/">Jinnan Chen</a>,
+          <a href="https://www.yangangwang.com/">Yangang Wang</a>,
+          <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>
+          <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025<br>
+      <a href="https://dylanorange.github.io/404/" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://dylanorange.github.io/404/" style="text-decoration: none;">[Arxiv]</a>
+      <a href="https://dylanorange.github.io/404/" style="text-decoration: none;">[Paper]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
