@@ -42,7 +42,7 @@ Publications
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="files/eventfly_teaser.png" alt="EventFly: Event Camera Perception from Ground to the Sky" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://dylanorange.github.io/404/" style="text-decoration: none;">EventFly: Event Camera Perception from Ground to the Sky</a></h3>
+    <h3 style="margin: 0;"><a href="https://event-fly.github.io/" style="text-decoration: none;">EventFly: Event Camera Perception from Ground to the Sky</a></h3>
     <p style="margin: 5px 0;">
           <a href="https://ldkong.com/">Lingdong Kong</a>,
           <strong>Dongyue Lu</strong>,
@@ -51,8 +51,7 @@ Publications
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
           <a href="https://cerco.cnrs.fr/page-benoit-cottereau/">Benoit R. Cottereau</a>
           <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025<br>
-      <a href="https://dylanorange.github.io/404/" style="text-decoration: none; ">[Project Page]</a>
-      <a href="https://dylanorange.github.io/404/" style="text-decoration: none;">[Arxiv]</a>
+      <a href="https://event-fly.github.io/" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://dylanorange.github.io/404/" style="text-decoration: none;">[Paper]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
@@ -66,7 +65,7 @@ Publications
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="files/rchi_pipeline.jpg" alt="Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
-    <h3 style="margin: 0;"><a href="https://dylanorange.github.io/404/" style="text-decoration: none;">Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning</a></h3>
+    <h3 style="margin: 0;"><a href="https://www.buzhenhuang.com/publications/papers/CVPR2025-CloseApp.pdf" style="text-decoration: none;">Reconstructing Close Human Interaction with Appearance and Proxemics Reasoning</a></h3>
     <p style="margin: 5px 0;">
           <a href="http://www.buzhenhuang.com/">Buzhen Huang</a>,
           <a href="https://chaneyddtt.github.io/">Chen Li</a>,
@@ -76,9 +75,8 @@ Publications
           <a href="https://www.yangangwang.com/">Yangang Wang</a>,
           <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>
           <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025<br>
-      <a href="https://dylanorange.github.io/404/" style="text-decoration: none; ">[Project Page]</a>
-      <a href="https://dylanorange.github.io/404/" style="text-decoration: none;">[Arxiv]</a>
-      <a href="https://dylanorange.github.io/404/" style="text-decoration: none;">[Paper]</a>
+      <a href="https://www.buzhenhuang.com/works/CloseApp.html" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://www.buzhenhuang.com/publications/papers/CVPR2025-CloseApp.pdf" style="text-decoration: none;">[Paper]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
