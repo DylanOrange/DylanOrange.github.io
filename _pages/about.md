@@ -11,7 +11,10 @@ redirect_from:
 ---
 
 <!-- <p align = "justify">  -->
-I am a Ph.D. student in Computer Science at the National University of Singapore (NUS). Prior to this, I collaborated with [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) at the Technical University of Munich (TUM), where I got my Master’s degree in Robotics, Cognition, and Intelligence with distinction. Prior to that, I completed my Bachelor’s degree in Vehicle Engineering at Tongji University in Shanghai, China.
+
+I am a Ph.D. student in Computer Science at the National University of Singapore (NUS), advised by [Prof. Wei Tsang Ooi](https://www.comp.nus.edu.sg/~ooiwt/) and [Prof. Camille Simon Chane](https://www.etis-lab.fr/2022/01/17/simon-chane-camille/). Previously, I conducted research with [Prof. Stefan Leutenegger](https://www.professoren.tum.de/en/leutenegger-stefan) and [Prof. Matthias Nießner](https://niessnerlab.org/members/matthias_niessner/profile.html) at the Technical University of Munich (TUM), where I earned an M.Sc. in Robotics, Cognition, and Intelligence (with distinction). I also hold a B.Eng. in Vehicle Engineering from Tongji University, Shanghai.
+
+My research lies at the intersection of **3D computer vision** and **multimodal, large-scale deep learning**. I explore how heterogeneous signals, including language, depth maps, point clouds, and event streams, can be fused to perceive, model, reason about, and generate rich 3D environments.
 
 Publications
 ======
