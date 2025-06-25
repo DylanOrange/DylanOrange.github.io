@@ -20,6 +20,131 @@ Publications
 ======
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/see4d_teaser.png" alt="See4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://see-4d.github.io/" style="text-decoration: none;">See4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting</a></h3>
+    <p style="margin: 5px 0;">
+          <strong>Dongyue Lu*</strong>,
+          <a href="https://alanliang.vercel.app/">Ao Liang*</a>,
+          <a href="https://tianxinhuang.github.io/">Tianxin Huang</a>,
+          <a href="https://fuxiao0719.github.io/">Xiao Fu</a>,
+          <a href="https://yuyangzhao.com/">Yuyang Zhao</a>,
+          <a href="https://mabaorui.github.io/">Baorui Ma</a>,
+          <a href="https://scholar.google.com/citations?user=lSDISOcAAAAJ&hl=zh-CN">Liang Pan</a>,
+          <a href="https://ldkong.com/">Lingdong Kong</a><sup>‡</sup>,
+          <a href="https://liuziwei7.github.io/">Ziwei Liu</a>
+          <br>Preprint, 2025<br>
+      <a href="https://see-4d.github.io/" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/talk2event_teaser.png" alt="Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://talk2event.github.io/" style="text-decoration: none;">Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras</a></h3>
+    <p style="margin: 5px 0;">
+          <a href="https://ldkong.com/">Lingdong Kong*</a>,
+          <strong>Dongyue Lu*</strong>,
+          <a href="https://alanliang.vercel.app/">Ao Liang*</a>,
+          <a href="https://rongli.tech/">Rong Li</a>,
+          <a href="https://github.com/dongyh20">Yuhao Dong</a>,
+          <a href="https://hutslib.github.io/">Tianshuai Hu</a>,
+          <a href="https://ipal.cnrs.fr/lai-xing-ng/">Lai Xing Ng</a>,
+          <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
+          <a href="https://cerco.cnrs.fr/page-benoit-cottereau/">Benoit R. Cottereau</a>
+          <br>Preprint, 2025<br>
+      <a href="https://talk2event.github.io/" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/3eed_teaser.png" alt="3EED: Ground Everything Everywhere in 3D" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://project-3eed.github.io//" style="text-decoration: none;">3EED: Ground Everything Everywhere in 3D</a></h3>
+    <p style="margin: 5px 0;">
+          <a href="https://rongli.tech/">Rong Li*</a>,
+          <a href="https://github.com/dongyh20">Yuhao Dong*</a>,
+          <a href="https://hutslib.github.io/">Tianshuai Hu*</a>,
+          <a href="https://alanliang.vercel.app/">Ao Liang*</a>,
+          <a href="https://scholar.google.com/citations?user=J9a48hMAAAAJ&hl=en">Youquan Liu*</a>,
+          <strong>Dongyue Lu*</strong>,
+          <a href="https://scholar.google.com/citations?user=lSDISOcAAAAJ&hl=zh-CN">Liang Pan</a>,
+          <a href="https://ldkong.com/">Lingdong Kong</a><sup>‡</sup>,
+          <a href="https://junweiliang.me/">Junwei Liang</a>,
+          <a href="https://liuziwei7.github.io/">Ziwei Liu</a>
+          <br>Preprint, 2025<br>
+      <a href="https://project-3eed.github.io/" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/spiral_teaser.png" alt="SPIRAL" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2505.22643" style="text-decoration: none;">SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation</a></h3>
+    <p style="margin: 5px 0;">
+          <a href="https://dekai21.github.io/">Dekai Zhu</a>,
+          <a href="https://www.linkedin.com/in/yixuanhu/">Yixuan Hu</a>,
+          <a href="https://scholar.google.com/citations?user=J9a48hMAAAAJ&hl=en">Youquan Liu</a>,
+          <strong>Dongyue Lu</strong>,
+          <a href="https://ldkong.com/">Lingdong Kong</a>,
+          <a href="https://scholar.google.de/citations?user=ELOVd8sAAAAJ&hl=en">Slobodan Ilic</a>
+          <br>Preprint, 2025<br>
+      <a href="https://arxiv.org/pdf/2505.22643" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/pi3det_teaser.png" alt="Pi3Det" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://dylanorange.github.io/" style="text-decoration: none;">Perspective-Invariant 3D Object Detection</a></h3>
+    <p style="margin: 5px 0;">
+          <a href="https://alanliang.vercel.app/">Ao Liang*</a>,
+          <a href="https://ldkong.com/">Lingdong Kong*</a>,
+          <strong>Dongyue Lu*</strong>,
+          <a href="https://scholar.google.com/citations?user=J9a48hMAAAAJ&hl=en">Youquan Liu</a>,
+          <a href="https://scholar.google.com/citations?hl=zh-CN&pli=1&user=miFYJg8AAAAJ">Jian Fang</a>,
+          <a href="https://dblp.org/pid/80/5232.html">Huaici Zhao</a>,
+          <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
+          <br>Preprint, 2025<br>
+      <a href="https://dylanorange.github.io/" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="projects/geal/static/videos/webpage.gif" alt="GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://arxiv.org/pdf/2412.09511" style="text-decoration: none;">GEAL: Generalizable 3D Affordance Learning with Cross-Modal Consistency</a></h3>
