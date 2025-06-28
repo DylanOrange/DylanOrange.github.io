@@ -132,7 +132,7 @@ Publications
           <a href="https://scholar.google.com/citations?hl=zh-CN&pli=1&user=miFYJg8AAAAJ">Jian Fang</a>,
           <a href="https://dblp.org/pid/80/5232.html">Huaici Zhao</a>,
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
-          <br>Preprint, 2025<br>
+          <br>International Conference on Computer Vision(ICCV), 2025<br>
       <a href="https://dylanorange.github.io/" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
       <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
