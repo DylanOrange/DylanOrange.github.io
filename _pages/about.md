@@ -46,6 +46,59 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/wm_survey.gif" alt="3D and 4D World Modeling: A Survey" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://worldbench.github.io/survey" style="text-decoration: none;">3D and 4D World Modeling: A Survey</a></h3>
+    <p style="margin: 5px 0;">
+          <a href="https://ldkong.com/">Lingdong Kong*</a>,
+          <a href="https://dylanorange.github.io/">Wesley Yang*</a>,
+          <a href="https://jianbiaomei.github.io/">Jianbiao Mei*</a>,
+          <a href="https://scholar.google.com/citations?user=J9a48hMAAAAJ&hl=en">Youquan Liu*</a>,
+          <a href="https://alanliang.vercel.app/">Ao Liang*</a>,
+          <a href="https://dekai21.github.io/">Dekai Zhu*</a>,
+          <strong>Dongyue Lu*</strong>,
+          <a href="https://yvanyin.xyz/">Wei Yin*</a>,
+          et al.
+          <br>Preprint, 2025<br>
+      <a href="https://worldbench.github.io/survey" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://arxiv.org/abs/2509.07996" style="text-decoration: none;">[arXiv]</a> 
+      <a href="https://arxiv.org/pdf/2509.07996" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://github.com/worldbench/survey" style="text-decoration: none;">[GitHub]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/lidarcrafter_teaser.png" alt="LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://lidarcrafter.github.io/" style="text-decoration: none;">LiDARCrafter: Dynamic 4D World Modeling from LiDAR Sequences</a></h3>
+    <p style="margin: 5px 0;">
+          <a href="https://alanliang.vercel.app/">Ao Liang</a>,
+          <a href="https://scholar.google.com/citations?user=J9a48hMAAAAJ&hl=en">Youquan Liu</a>,
+          <a href="https://dylanorange.github.io/">Wesley Yang</a>,
+          <strong>Dongyue Lu</strong>,
+          <a href="https://scholar.google.com/citations?user=noWaiKgAAAAJ&hl=en">Linfeng Li</a>,
+          <a href="https://ldkong.com/">Lingdong Kong</a><sup>‡</sup>,
+          <a href="https://dblp.org/pid/80/5232.html">Huaici Zhao</a>,
+          <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
+          <br>Preprint, 2025<br>
+      <a href="https://lidarcrafter.github.io/" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://arxiv.org/abs/2508.03692" style="text-decoration: none;">[arXiv]</a> 
+      <a href="https://arxiv.org/pdf/2508.03692" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://github.com/worldbench/lidarcrafter" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="files/talk2event_teaser.png" alt="Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://talk2event.github.io/" style="text-decoration: none;">Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras</a></h3>
@@ -59,10 +112,10 @@ Publications
           <a href="https://ipal.cnrs.fr/lai-xing-ng/">Lai Xing Ng</a>,
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
           <a href="https://cerco.cnrs.fr/page-benoit-cottereau/">Benoit R. Cottereau</a>
-          <br>Preprint, 2025<br>
+          <br>arXiv, 2025<br>
       <a href="https://talk2event.github.io/" style="text-decoration: none; ">[Project Page]</a>
-      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
-      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
+      <a href="https://arxiv.org/abs/2507.17664" style="text-decoration: none; ">[arXiv]</a>
+      <a href="https://arxiv.org/pdf/2507.17664" style="text-decoration: none;">[Paper]</a> 
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -89,7 +142,6 @@ Publications
           <br>Preprint, 2025<br>
       <a href="https://project-3eed.github.io/" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
-      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -109,9 +161,9 @@ Publications
           <strong>Dongyue Lu</strong>,
           <a href="https://ldkong.com/">Lingdong Kong</a>,
           <a href="https://scholar.google.de/citations?user=ELOVd8sAAAAJ&hl=en">Slobodan Ilic</a>
-          <br>Preprint, 2025<br>
+          <br>arXiv, 2025<br>
+      <a href="https://arxiv.org/abs/2505.22643" style="text-decoration: none;">[arXiv]</a> 
       <a href="https://arxiv.org/pdf/2505.22643" style="text-decoration: none;">[Paper]</a> 
-      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -133,9 +185,10 @@ Publications
           <a href="https://dblp.org/pid/80/5232.html">Huaici Zhao</a>,
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
           <br>International Conference on Computer Vision(ICCV), 2025<br>
-      <a href="https://dylanorange.github.io/" style="text-decoration: none; ">[Project Page]</a>
-      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
-      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
+      <a href="https://pi3det.github.io/" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://arxiv.org/abs/2507.17665" style="text-decoration: none;">[arXiv]</a> 
+      <a href="https://arxiv.org/pdf/2507.17665" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://github.com/worldbench/pi3det" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -155,7 +208,7 @@ Publications
           <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>
           <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025<br>
       <a href="https://dylanorange.github.io/projects/geal" style="text-decoration: none; ">[Project Page]</a>
-      <a href="https://arxiv.org/abs/2412.09511" style="text-decoration: none;">[Arxiv]</a>
+      <a href="https://arxiv.org/abs/2412.09511" style="text-decoration: none;">[arXiv]</a>
       <a href="https://arxiv.org/pdf/2412.09511" style="text-decoration: none;">[Paper]</a> 
       <a href="https://github.com/DylanOrange/geal" style="text-decoration: none;">[Code]</a>
       <a href="https://huggingface.co/datasets/dylanorange/geal" style="text-decoration: none;">[Data]</a>
@@ -224,10 +277,10 @@ Publications
           <a href="https://scholar.google.at/citations?user=mbMNjekAAAAJ&hl=en">Camille Simon Chane</a>,
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>
           <br>
-      Arxiv, 2024<br>
+      arXiv, 2024<br>
       <!-- color: #0073e6; -->
       <a href="https://flexevent.github.io" style="text-decoration: none; ">[Project Page]</a>
-      <a href="https://arxiv.org/abs/2412.06708" style="text-decoration: none;">[Arxiv]</a> 
+      <a href="https://arxiv.org/abs/2412.06708" style="text-decoration: none;">[arXiv]</a> 
       <a href="https://arxiv.org/pdf/2412.06708" style="text-decoration: none;">[Paper]</a> 
       <a href="https://github.com/DylanOrange/flexevent" style="text-decoration: none;">[Code]</a>
     </p>
@@ -251,7 +304,7 @@ Publications
       IEEE International Symposium on Mixed and Augmented Reality (ISMAR), 2023<br>
       <!-- color: #0073e6; -->
       <a href="https://yingyexin.github.io/simplemapping.html" style="text-decoration: none; ">[Project Page]</a>
-      <a href="https://arxiv.org/abs/2306.08648" style="text-decoration: none;">[Arxiv]</a> 
+      <a href="https://arxiv.org/abs/2306.08648" style="text-decoration: none;">[arXiv]</a> 
       <a href="https://arxiv.org/pdf/2306.08648" style="text-decoration: none;">[Paper]</a> 
       <a href="https://github.com/yingyexin/SimpleMapping" style="text-decoration: none;">[Code]</a>
       <a href="https://www.youtube.com/watch?v=qn35joS5zZM" style="text-decoration: none;">[Video]</a>
