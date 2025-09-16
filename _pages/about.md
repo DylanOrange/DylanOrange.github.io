@@ -46,7 +46,7 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="files/wm_survey.gif" alt="3D and 4D World Modeling: A Survey" style="width: 350px; height: auto; margin-right: 20px;">
+  <img src="files/wm_survey.gif" alt="3D and 4D World Modeling: A Survey" style="height: 180px; width: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://worldbench.github.io/survey" style="text-decoration: none;">3D and 4D World Modeling: A Survey</a></h3>
     <p style="margin: 5px 0;">
