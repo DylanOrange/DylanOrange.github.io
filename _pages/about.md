@@ -59,7 +59,7 @@ Publications
           <strong>Dongyue Lu*</strong>,
           <a href="https://yvanyin.xyz/">Wei Yin*</a>,
           et al.
-          <br>Preprint, 2025<br>
+          <br>arXiv, 2025<br>
       <a href="https://worldbench.github.io/survey" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://arxiv.org/abs/2509.07996" style="text-decoration: none;">[arXiv]</a> 
       <a href="https://arxiv.org/pdf/2509.07996" style="text-decoration: none;">[Paper]</a> 
@@ -85,7 +85,7 @@ Publications
           <a href="https://ldkong.com/">Lingdong Kong</a><sup>‡</sup>,
           <a href="https://dblp.org/pid/80/5232.html">Huaici Zhao</a>,
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
-          <br>Preprint, 2025<br>
+          <br>arXiv, 2025<br>
       <a href="https://lidarcrafter.github.io/" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://arxiv.org/abs/2508.03692" style="text-decoration: none;">[arXiv]</a> 
       <a href="https://arxiv.org/pdf/2508.03692" style="text-decoration: none;">[Paper]</a> 
