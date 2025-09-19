@@ -99,6 +99,30 @@ Publications
 </div>
 
 <div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/flexevent_teaser.gif" alt="FlexEvent: Event Camera Object Detection at Arbitrary Frequencies" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://arxiv.org/pdf/2412.06708" style="text-decoration: none;">FlexEvent: Towards Flexible Event-Frame Object Detection at Varying Operational Frequencies</a></h3>
+    <p style="margin: 5px 0;">
+          <strong>Dongyue Lu</strong>,
+          <a href="https://ldkong.com/">Lingdong Kong</a>,
+          <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>,
+          <a href="https://scholar.google.at/citations?user=mbMNjekAAAAJ&hl=en">Camille Simon Chane</a>,
+          <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>
+          <br>Neural Information Processing Systems (NeurIPS), 2025<br>
+      <!-- color: #0073e6; -->
+      <a href="https://flexevent.github.io" style="text-decoration: none; ">[Project Page]</a>
+      <a href="https://arxiv.org/abs/2412.06708" style="text-decoration: none;">[arXiv]</a> 
+      <a href="https://arxiv.org/pdf/2412.06708" style="text-decoration: none;">[Paper]</a> 
+      <a href="https://github.com/DylanOrange/flexevent" style="text-decoration: none;">[Code]</a>
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
   <img src="files/talk2event_teaser.png" alt="Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras" style="width: 350px; height: auto; margin-right: 20px;">
   <div>
     <h3 style="margin: 0;"><a href="https://talk2event.github.io/" style="text-decoration: none;">Talk2Event: Grounded Understanding of Dynamic Scenes from Event Cameras</a></h3>
@@ -112,10 +136,37 @@ Publications
           <a href="https://ipal.cnrs.fr/lai-xing-ng/">Lai Xing Ng</a>,
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
           <a href="https://cerco.cnrs.fr/page-benoit-cottereau/">Benoit R. Cottereau</a>
-          <br>arXiv, 2025<br>
+          <!-- <br>Neural Information Processing Systems (NeurIPS), 2025, <strong>Spotlight (3.2%)</strong><br> -->
+          <br>
+          Neural Information Processing Systems (NeurIPS), 2025,
+          <strong style="color:#f1c40f;">Spotlight (3.2%)</strong>
+          <br>
+
       <a href="https://talk2event.github.io/" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://arxiv.org/abs/2507.17664" style="text-decoration: none; ">[arXiv]</a>
       <a href="https://arxiv.org/pdf/2507.17664" style="text-decoration: none;">[Paper]</a> 
+    </p>
+    <div style="display: flex; align-items: center; margin-top: 10px;">
+      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
+      </a>
+    </div>
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 40px;">
+  <img src="files/spiral_teaser.png" alt="SPIRAL" style="width: 350px; height: auto; margin-right: 20px;">
+  <div>
+    <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2505.22643" style="text-decoration: none;">SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation</a></h3>
+    <p style="margin: 5px 0;">
+          <a href="https://dekai21.github.io/">Dekai Zhu</a>,
+          <a href="https://www.linkedin.com/in/yixuanhu/">Yixuan Hu</a>,
+          <a href="https://scholar.google.com/citations?user=J9a48hMAAAAJ&hl=en">Youquan Liu</a>,
+          <strong>Dongyue Lu</strong>,
+          <a href="https://ldkong.com/">Lingdong Kong</a>,
+          <a href="https://scholar.google.de/citations?user=ELOVd8sAAAAJ&hl=en">Slobodan Ilic</a>
+          <br>Neural Information Processing Systems (NeurIPS), 2025<br>
+      <a href="https://arxiv.org/abs/2505.22643" style="text-decoration: none;">[arXiv]</a> 
+      <a href="https://arxiv.org/pdf/2505.22643" style="text-decoration: none;">[Paper]</a> 
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -139,31 +190,9 @@ Publications
           <a href="https://ldkong.com/">Lingdong Kong</a><sup>‡</sup>,
           <a href="https://junweiliang.me/">Junwei Liang</a>,
           <a href="https://liuziwei7.github.io/">Ziwei Liu</a>
-          <br>Preprint, 2025<br>
+          <br>Neural Information Processing Systems (NeurIPS) (Datasets and Benchmarks Track), 2025<br>
       <a href="https://project-3eed.github.io/" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
-    </p>
-    <div style="display: flex; align-items: center; margin-top: 10px;">
-      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
-      </a>
-    </div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="files/spiral_teaser.png" alt="SPIRAL" style="width: 350px; height: auto; margin-right: 20px;">
-  <div>
-    <h3 style="margin: 0;"><a href="https://arxiv.org/abs/2505.22643" style="text-decoration: none;">SPIRAL: Semantic-Aware Progressive LiDAR Scene Generation</a></h3>
-    <p style="margin: 5px 0;">
-          <a href="https://dekai21.github.io/">Dekai Zhu</a>,
-          <a href="https://www.linkedin.com/in/yixuanhu/">Yixuan Hu</a>,
-          <a href="https://scholar.google.com/citations?user=J9a48hMAAAAJ&hl=en">Youquan Liu</a>,
-          <strong>Dongyue Lu</strong>,
-          <a href="https://ldkong.com/">Lingdong Kong</a>,
-          <a href="https://scholar.google.de/citations?user=ELOVd8sAAAAJ&hl=en">Slobodan Ilic</a>
-          <br>arXiv, 2025<br>
-      <a href="https://arxiv.org/abs/2505.22643" style="text-decoration: none;">[arXiv]</a> 
-      <a href="https://arxiv.org/pdf/2505.22643" style="text-decoration: none;">[Paper]</a> 
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
@@ -184,7 +213,7 @@ Publications
           <a href="https://scholar.google.com/citations?hl=zh-CN&pli=1&user=miFYJg8AAAAJ">Jian Fang</a>,
           <a href="https://dblp.org/pid/80/5232.html">Huaici Zhao</a>,
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
-          <br>International Conference on Computer Vision(ICCV), 2025<br>
+          <br>International Conference on Computer Vision (ICCV), 2025<br>
       <a href="https://pi3det.github.io/" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://arxiv.org/abs/2507.17665" style="text-decoration: none;">[arXiv]</a> 
       <a href="https://arxiv.org/pdf/2507.17665" style="text-decoration: none;">[Paper]</a> 
@@ -206,7 +235,7 @@ Publications
           <a href="https://ldkong.com/">Lingdong Kong</a>,
           <a href="https://tianxinhuang.github.io/">Tianxin Huang</a>,
           <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>
-          <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025<br>
+          <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025<br>
       <a href="https://dylanorange.github.io/projects/geal" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://arxiv.org/abs/2412.09511" style="text-decoration: none;">[arXiv]</a>
       <a href="https://arxiv.org/pdf/2412.09511" style="text-decoration: none;">[Paper]</a> 
@@ -231,7 +260,7 @@ Publications
           <a href="https://ipal.cnrs.fr/lai-xing-ng/">Lai Xing Ng</a>,
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
           <a href="https://cerco.cnrs.fr/page-benoit-cottereau/">Benoit R. Cottereau</a>
-          <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025<br>
+          <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025<br>
       <a href="https://event-fly.github.io/" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://dylanorange.github.io/404/" style="text-decoration: none;">[Paper]</a>
     </p>
@@ -255,34 +284,9 @@ Publications
           <a href="https://jinnan-chen.github.io/">Jinnan Chen</a>,
           <a href="https://www.yangangwang.com/">Yangang Wang</a>,
           <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>
-          <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition(CVPR), 2025<br>
+          <br>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), 2025<br>
       <a href="https://www.buzhenhuang.com/works/CloseApp.html" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://www.buzhenhuang.com/publications/papers/CVPR2025-CloseApp.pdf" style="text-decoration: none;">[Paper]</a>
-    </p>
-    <div style="display: flex; align-items: center; margin-top: 10px;">
-      <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
-      </a>
-    </div>
-  </div>
-</div>
-
-<div style="display: flex; align-items: center; margin-bottom: 40px;">
-  <img src="files/flexevent_teaser.gif" alt="FlexEvent: Event Camera Object Detection at Arbitrary Frequencies" style="width: 350px; height: auto; margin-right: 20px;">
-  <div>
-    <h3 style="margin: 0;"><a href="https://arxiv.org/pdf/2412.06708" style="text-decoration: none;">FlexEvent: Event Camera Object Detection at Arbitrary Frequencies</a></h3>
-    <p style="margin: 5px 0;">
-          <strong>Dongyue Lu</strong>,
-          <a href="https://ldkong.com/">Lingdong Kong</a>,
-          <a href="https://www.comp.nus.edu.sg/~leegh/">Gim Hee Lee</a>,
-          <a href="https://scholar.google.at/citations?user=mbMNjekAAAAJ&hl=en">Camille Simon Chane</a>,
-          <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>
-          <br>
-      arXiv, 2024<br>
-      <!-- color: #0073e6; -->
-      <a href="https://flexevent.github.io" style="text-decoration: none; ">[Project Page]</a>
-      <a href="https://arxiv.org/abs/2412.06708" style="text-decoration: none;">[arXiv]</a> 
-      <a href="https://arxiv.org/pdf/2412.06708" style="text-decoration: none;">[Paper]</a> 
-      <a href="https://github.com/DylanOrange/flexevent" style="text-decoration: none;">[Code]</a>
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
