@@ -79,7 +79,7 @@ Publications
     <p style="margin: 5px 0;">
           <a href="https://alanliang.vercel.app/">Ao Liang</a>,
           <a href="https://scholar.google.com/citations?user=J9a48hMAAAAJ&hl=en">Youquan Liu</a>,
-          <a href="https://dylanorange.github.io/">Wesley Yang</a>,
+          <a href="https://yuyang-cloud.github.io/">Yu Yang</a>,
           <strong>Dongyue Lu</strong>,
           <a href="https://scholar.google.com/citations?user=noWaiKgAAAAJ&hl=en">Linfeng Li</a>,
           <a href="https://ldkong.com/">Lingdong Kong</a><sup>‡</sup>,
