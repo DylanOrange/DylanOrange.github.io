@@ -31,12 +31,14 @@ Publications
           <a href="https://yuyangzhao.com/">Yuyang Zhao</a>,
           <a href="https://mabaorui.github.io/">Baorui Ma</a>,
           <a href="https://scholar.google.com/citations?user=lSDISOcAAAAJ&hl=zh-CN">Liang Pan</a>,
+          <a href="https://yvanyin.xyz/">Wei Yin</a>,
           <a href="https://ldkong.com/">Lingdong Kong</a><sup>‡</sup>,
+          <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
           <a href="https://liuziwei7.github.io/">Ziwei Liu</a>
-          <br>Preprint, 2025<br>
+          <br>arXiv, 2025<br>
       <a href="https://see-4d.github.io/" style="text-decoration: none; ">[Project Page]</a>
-      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Paper]</a> 
-      <a href="https://dylanorange.github.io/" style="text-decoration: none;">[Code]</a>
+      <a href="https://arxiv.org/abs/2510.26796" style="text-decoration: none;">[arXiv]</a>
+      <a href="https://arxiv.org/pdf/2510.26796" style="text-decoration: none;">[Paper]</a> 
     </p>
     <div style="display: flex; align-items: center; margin-top: 10px;">
       <a href="https://github.com/yourrepo" style="display: flex; align-items: center; text-decoration: none; color: #000;">
