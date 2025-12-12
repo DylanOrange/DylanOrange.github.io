@@ -87,7 +87,10 @@ Publications
           <a href="https://ldkong.com/">Lingdong Kong</a><sup>‡</sup>,
           <a href="https://dblp.org/pid/80/5232.html">Huaici Zhao</a>,
           <a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a>,
-          <br>arXiv, 2025<br>
+          <br>
+          AAAI Conference on Artificial Intelligence (AAAI), 2026,
+          <strong style="color:#f1c40f;">Oral</strong>
+          <br>
       <a href="https://lidarcrafter.github.io/" style="text-decoration: none; ">[Project Page]</a>
       <a href="https://arxiv.org/abs/2508.03692" style="text-decoration: none;">[arXiv]</a> 
       <a href="https://arxiv.org/pdf/2508.03692" style="text-decoration: none;">[Paper]</a> 
