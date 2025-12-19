@@ -1,0 +1,138 @@
+@charset "utf-8";
+body {
+    font-family: "Lato", sans-serif;
+    font-weight: 400;
+    padding-top: 5.0rem;
+}
+
+h1, h2, h3, h4, h5, h6,
+.h1, .h2, .h3, .h4, .h5, .h6 {
+    font-weight: 700;
+}
+
+.card {
+    border-radius: 0.8rem!important;
+}
+
+.card-img-overlay {
+    border-radius: 0.8rem!important;
+}
+
+.rounded-xl {
+    border-radius: 0.8rem!important;
+}
+
+.rounded-xl-bottom {
+    border-bottom-right-radius: 0.8rem !important;
+    border-bottom-left-radius: 0.8rem !important;
+}
+
+.rounded-xl-top {
+    border-top-left-radius: 0.8rem !important;
+    border-top-right-radius: 0.8rem !important;
+}
+
+
+.text-profile-position {
+    font-weight: 400;
+}
+
+.text-profile-bio {
+    /* font-family: "Raleway"; */
+    font-weight: 400;
+}
+
+.navbar {
+    opacity: 0.95;
+}
+
+.inline-badge {
+    height: 16px;
+    vertical-align: -10%;
+    margin-right: 2px;
+    line-break: unset;
+}
+
+.no-break {
+    white-space: nowrap;
+}
+
+.cover-image {
+    width: 180px;
+    max-height: 120px;
+}
+
+.abstract-body {
+    min-height: 100px;
+}
+
+img.lazy {
+    background-image: url('images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 50px 50px;
+    min-height: 80px;
+}
+
+div.lazy {
+    background-image: url('images/loading.gif');
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: 50px 50px;
+    min-height: 80px;
+}
+
+.badge-publication {
+    font-size: 100%;
+}
+
+.email-text {
+    font-family: Source Code Pro, monospace;
+}
+
+/* Desktop cover: width fills the left column; height = 0.8 * width */
+.pub-cover-desktop {
+    position: relative;      /* 为 overlay 定位 */
+    width: 100%;
+    aspect-ratio: 5 / 4;   /* 0.8 = 4/5; 写成 5/4 表示宽:高 */
+    overflow: hidden;
+    background: #f3f3f3;
+    border-radius: 0.5rem;              /* 你也可以用 0.4rem / 0.6rem */
+    border: 1px solid rgba(0,0,0,0.04); /* 很淡的边框 */
+    box-shadow: 0 4px 14px rgba(0,0,0,0.04);
+  }
+  
+.pub-cover-desktop img {
+width: 100%;
+height: 100%;
+object-fit: cover;        /* 裁剪填满 */
+object-position: center;  /* 默认居中，可被 cover_pos 覆盖 */
+display: block;
+}
+  
+.pub-cover-desktop::after {
+content: "";
+position: absolute;
+inset: 0;
+pointer-events: none;
+background: linear-gradient(
+    to bottom,
+    rgba(0,0,0,0.00) 0%,
+    rgba(0,0,0,0.03) 60%,
+    rgba(0,0,0,0.08) 100%
+);
+}
+
+/* Fix anchor offset for fixed navbar */
+.section-anchor {
+    scroll-margin-top: 60px;
+  }
+  
+  @media (max-width: 576px) {
+    .section-anchor {
+      scroll-margin-top: 60px;
+    }
+  }
+  
+.navbar-greeting { opacity: 1; transition: opacity 120ms ease; }
+.navbar-greeting.is-hidden { opacity: 0; }
