@@ -4,7 +4,7 @@ date: 2025-12-20
 selected: true
 
 pub: "EuroGraphics"
-pub_date: "2025"
+pub_date: "2026"
 
 cover: assets/images/covers/see4d.png
 
