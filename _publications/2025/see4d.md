@@ -3,7 +3,7 @@ title: "See4D: Pose-Free 4D Generation via Auto-Regressive Video Inpainting"
 date: 2025-12-20
 selected: true
 
-pub: "arXiv"
+pub: "EuroGraphics"
 pub_date: "2025"
 
 cover: assets/images/covers/see4d.png
