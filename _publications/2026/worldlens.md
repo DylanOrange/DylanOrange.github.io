@@ -15,7 +15,7 @@ authors:
 - Hongsi Liu*
 - Wesley Yang*
 - ... 
-- <strong>Dongyue Lu*</strong>
+- <strong>Dongyue Lu</strong>
 - et al.
   
 links:
