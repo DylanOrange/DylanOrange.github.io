@@ -1,0 +1,369 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="EventDrive: a full-stack event-camera benchmark and vision-language model for autonomous driving.">
+  <meta property="og:title" content="EventDrive: Event Cameras for Vision-Language Driving Intelligence">
+  <meta property="og:description" content="471K event-frame-language samples across perception, understanding, prediction, and planning.">
+  <meta property="og:image" content="static/files/teaser.png">
+  <title>EventDrive: Event Cameras for Vision-Language Driving Intelligence</title>
+  <link rel="stylesheet" href="static/css/style.css">
+</head>
+<body>
+  <header class="site-header">
+    <nav class="nav-shell" aria-label="Primary navigation">
+      <a class="brand" href="#top" aria-label="EventDrive home">EventDrive</a>
+      <button class="nav-toggle" type="button" aria-label="Toggle navigation" aria-expanded="false">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="#overview">Overview</a>
+        <a href="#benchmark">Benchmark</a>
+        <a href="#dataset">Dataset</a>
+        <a href="#model">Model</a>
+        <a href="#results">Results</a>
+        <a href="#citation">Citation</a>
+      </div>
+    </nav>
+  </header>
+
+  <main id="top">
+    <section class="hero section">
+      <div class="container hero-container">
+        <p class="eyebrow">CVPR 2026</p>
+        <h1><span class="eventdrive-wordmark">EventDrive</span></h1>
+        <p class="hero-subtitle">Event Cameras for Vision-Language Driving Intelligence</p>
+
+        <div class="authors" aria-label="Authors">
+          <span class="author-block"><a href="https://dylanorange.github.io/">Dongyue Lu</a><sup>1,6</sup></span>
+          <span class="author-block"><a href="https://rongli.tech/">Rong Li</a><sup>2</sup></span>
+          <span class="author-block"><a href="https://alanliang.vercel.app/">Ao Liang</a><sup>1</sup></span>
+          <span class="author-block"><a href="https://ldkong.com/">Lingdong Kong</a><sup>1,3</sup></span>
+          <span class="author-block"><a href="https://yvanyin.xyz/">Wei Yin</a><sup>4</sup></span>
+          <span class="author-block"><a href="https://ipal.cnrs.fr/lai-xing-ng/">Lai Xing Ng</a><sup>5</sup></span>
+          <span class="author-block"><a href="https://ipal.cnrs.fr/benoit-cottereau-personal-page/">Benoit R. Cottereau</a><sup>6,7</sup></span>
+          <span class="author-block"><a href="https://www.etis-lab.fr/2022/01/17/simon-chane-camille/">Camille Simon Chane</a><sup>8</sup></span>
+          <span class="author-block"><a href="https://www.comp.nus.edu.sg/~ooiwt/">Wei Tsang Ooi</a><sup>1,6</sup></span>
+        </div>
+
+        <p class="affiliations">
+          <sup>1</sup>NUS &nbsp; <sup>2</sup>HKUST(GZ) &nbsp; <sup>3</sup>CNRS@CREATE &nbsp;
+          <sup>4</sup>Horizon Robotics &nbsp; <sup>5</sup>A*STAR, I<sup>2</sup>R<br>
+          <sup>6</sup>IPAL, CNRS IRL 2955, Singapore &nbsp; <sup>7</sup>University Toulouse, CNRS, CerCo &nbsp;
+          <sup>8</sup>ETIS, CY Cergy Paris University, ENSEA, CNRS
+        </p>
+
+        <div class="button-row">
+          <a class="resource-button" href="static/files/EventDrive.pdf">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 2h8l4 4v16H6z"/><path d="M14 2v5h5M8.5 16.5h7M8.5 13h7M8.5 9.5h2.5"/></svg>
+            Paper
+          </a>
+          <!-- Replace this local PDF with the official arXiv URL after submission. -->
+          <a class="resource-button" href="static/files/EventDrive.pdf">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 18 9.7 6h2.1L17 18M6.2 14h8.7M18.5 6v12M16 8.5 18.5 6 21 8.5"/></svg>
+            arXiv
+          </a>
+          <a class="resource-button accent" href="https://huggingface.co/datasets/dylanorange/EventDrive">
+            <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3a9 9 0 1 0 9 9 9 9 0 0 0-9-9Z"/><path d="M8.5 10h.01M15.5 10h.01M8.5 15c1.7 1.3 5.3 1.3 7 0"/></svg>
+            Dataset &amp; Toolkit
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="teaser-wrap">
+      <div class="container wide">
+        <figure class="paper-figure teaser-card">
+          <img src="static/files/teaser.png" alt="EventDrive benchmark overview across perception, understanding, prediction, and planning">
+        </figure>
+        <p class="figure-caption">
+          <strong>EventDrive</strong> brings asynchronous events, RGB frames, and language supervision
+          together across the full driving loop.
+        </p>
+      </div>
+    </section>
+
+    <section class="stats-band" aria-label="Dataset statistics">
+      <div class="container stats-grid">
+        <div><strong>471,543</strong><span>event-frame-language samples</span></div>
+        <div><strong>17</strong><span>driving subtasks</span></div>
+        <div><strong>4</strong><span>reasoning stages</span></div>
+        <div><strong>42,869</strong><span>hard-split samples</span></div>
+      </div>
+    </section>
+
+    <section class="section" id="overview">
+      <div class="container">
+        <div class="section-heading centered">
+          <p class="eyebrow">Overview</p>
+          <h2>From asynchronous sensing to driving decisions</h2>
+          <p>
+            Event cameras record brightness changes with microsecond latency and high dynamic range.
+            They preserve motion structure in low light, glare, and rapid motion, where conventional
+            frames can become unreliable.
+          </p>
+        </div>
+
+        <div class="overview-grid">
+          <article class="overview-card">
+            <span class="overview-index">01</span>
+            <h3>Full-stack benchmark</h3>
+            <p>Language-grounded tasks connect perception, object understanding, motion prediction, and ego planning.</p>
+          </article>
+          <article class="overview-card">
+            <span class="overview-index">02</span>
+            <h3>Real-world multimodal data</h3>
+            <p>Synchronized event streams and RGB frames are paired with structured supervision from three driving datasets.</p>
+          </article>
+          <article class="overview-card">
+            <span class="overview-index">03</span>
+            <h3>Event-frame reasoning</h3>
+            <p>EventDrive-VLM combines high-frequency motion cues with frame semantics inside one multimodal model.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section section-tinted" id="benchmark">
+      <div class="container">
+        <div class="section-heading">
+          <p class="eyebrow">Benchmark</p>
+          <h2>Four stages. One driving loop.</h2>
+          <p>
+            Each stage probes a distinct role for temporal cues, from robust environmental perception
+            to motion-aware planning.
+          </p>
+        </div>
+
+        <div class="task-grid">
+          <article class="task-card perception">
+            <div class="task-topline">
+              <img src="static/files/icons/perception.png" alt="">
+              <span>01</span>
+            </div>
+            <h3>Perception</h3>
+            <p>Scene-level context under challenging illumination and motion.</p>
+            <ul>
+              <li>Scene type</li><li>Visibility</li><li>Traffic flow</li>
+              <li>Weather</li><li>Traffic light</li><li>Road condition</li>
+            </ul>
+          </article>
+          <article class="task-card understanding">
+            <div class="task-topline">
+              <img src="static/files/icons/understanding.png" alt="">
+              <span>02</span>
+            </div>
+            <h3>Understanding</h3>
+            <p>Object-centric semantics, relationships, and grounding.</p>
+            <ul>
+              <li>Object presence</li><li>Appearance</li><li>Motion state</li>
+              <li>Ego relation</li><li>Environment relation</li><li>Grounding</li>
+            </ul>
+          </article>
+          <article class="task-card prediction">
+            <div class="task-topline">
+              <img src="static/files/icons/prediction.png" alt="">
+              <span>03</span>
+            </div>
+            <h3>Prediction</h3>
+            <p>Short-horizon behavioral forecasting for surrounding agents.</p>
+            <ul>
+              <li>Speed change</li><li>Direction change</li>
+            </ul>
+          </article>
+          <article class="task-card planning">
+            <div class="task-topline">
+              <img src="static/files/icons/planning.png" alt="">
+              <span>04</span>
+            </div>
+            <h3>Planning</h3>
+            <p>Ego-centric intent estimation and future waypoint generation.</p>
+            <ul>
+              <li>Speed intent</li><li>Direction intent</li><li>Waypoint planning</li>
+            </ul>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="dataset">
+      <div class="container wide">
+        <div class="section-heading centered compact">
+          <p class="eyebrow">Dataset</p>
+          <h2>Language-grounded data generation</h2>
+          <p>
+            EventDrive builds structured supervision from DSEC, M3ED, and PKU-DAVIS-SOD,
+            combining events with frames, boxes, LiDAR, and ego poses.
+          </p>
+        </div>
+        <figure class="paper-figure content-figure">
+          <img src="static/files/data-pipeline.png" alt="EventDrive annotation pipelines for four reasoning stages">
+        </figure>
+        <div class="annotation-overview">
+          <article class="perception">
+            <span>01</span>
+            <h3>Scene-level captions</h3>
+            <p>Frames are captioned and converted into QA pairs covering visibility, traffic flow, weather, road conditions, scene type, and traffic lights.</p>
+          </article>
+          <article class="understanding">
+            <span>02</span>
+            <h3>Object-centric semantics</h3>
+            <p>Ground-truth boxes guide attribute captions, structured QA, and spatial grounding for object appearance, status, and relationships.</p>
+          </article>
+          <article class="prediction">
+            <span>03</span>
+            <h3>Agent motion labels</h3>
+            <p>Tracked trajectories are transformed into the ego frame and discretized into speed and direction intents for surrounding agents.</p>
+          </article>
+          <article class="planning">
+            <span>04</span>
+            <h3>Ego planning supervision</h3>
+            <p>Ego poses define speed intent, direction intent, and future waypoints, forming decision-oriented planning queries.</p>
+          </article>
+        </div>
+        <div class="dataset-bottom">
+          <div>
+            <p class="eyebrow">Hard Split</p>
+            <h3>Designed for the moments when frames struggle</h3>
+            <p>
+              The hard split contains low-light and motion-blur sequences, enabling targeted evaluation
+              of event sensing under adverse conditions.
+            </p>
+          </div>
+          <a class="text-link" href="https://huggingface.co/datasets/dylanorange/EventDrive">
+            Explore the dataset <span aria-hidden="true">&rarr;</span>
+          </a>
+        </div>
+      </div>
+    </section>
+
+    <section class="section model-section" id="model">
+      <div class="container wide">
+        <div class="section-heading centered compact">
+          <p class="eyebrow">Model</p>
+          <h2>EventDrive-VLM</h2>
+          <p>
+            A dynamic event pathway captures temporal structure at multiple horizons,
+            then aligns motion-aware event tokens with frame and language representations.
+          </p>
+        </div>
+        <figure class="paper-figure content-figure">
+          <img src="static/files/framework.png" alt="EventDrive-VLM architecture">
+        </figure>
+        <div class="model-grid">
+          <article>
+            <span>01</span>
+            <h3>Multi-horizon voxelization</h3>
+            <p>Short-, medium-, and long-horizon tensors preserve motion patterns across temporal scales.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <h3>Dynamic aggregation</h3>
+            <p>A mixture-of-experts gate emphasizes the most informative temporal horizon for each scene.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <h3>Event Q-Former alignment</h3>
+            <p>Learnable queries extract compact motion-aware tokens for coherent multimodal reasoning.</p>
+          </article>
+        </div>
+      </div>
+    </section>
+
+    <section class="section" id="results">
+      <div class="container">
+        <div class="section-heading centered">
+          <p class="eyebrow">Results</p>
+          <h2>Temporal cues complement frame semantics</h2>
+          <p>
+            Event-frame fusion improves reasoning across the driving chain, particularly for grounding,
+            motion prediction, and planning.
+          </p>
+        </div>
+
+        <figure class="results-table">
+          <div class="results-table-scroll">
+            <div class="results-table-frame">
+              <img src="static/files/results-table.png" alt="Comparison across four driving-reasoning tasks in the EventDrive benchmark">
+            </div>
+          </div>
+          <figcaption>
+            Comparison with event-only, frame-only, and event-frame models across the full driving loop.
+          </figcaption>
+        </figure>
+
+        <div class="result-takeaways">
+          <article>
+            <span>01</span>
+            <p><strong>Event-frame fusion is strongest overall.</strong> It leads most metrics across perception, understanding, prediction, and planning.</p>
+          </article>
+          <article>
+            <span>02</span>
+            <p><strong>Events add motion awareness.</strong> High-frequency temporal cues improve speed reasoning and stabilize waypoint prediction.</p>
+          </article>
+          <article>
+            <span>03</span>
+            <p><strong>Frames and events are complementary.</strong> RGB contributes semantics, while events remain informative under blur and difficult illumination.</p>
+          </article>
+        </div>
+
+        <div class="qualitative-block">
+          <div class="qualitative-heading">
+            <p class="eyebrow">Qualitative Comparison</p>
+            <h3>Reliable reasoning under low light and rapid motion</h3>
+            <p>
+              Frames preserve appearance semantics, while events reveal temporal gradients and motion structure.
+              EventDrive-VLM fuses both signals for more robust scene understanding and ego decisions.
+            </p>
+          </div>
+          <div class="qualitative-panels">
+            <figure class="paper-figure qualitative-panel qualitative-top">
+              <img src="static/files/qualitative-top.png" alt="Qualitative comparison for perception and understanding under strong sunlight">
+            </figure>
+            <figure class="paper-figure qualitative-panel qualitative-bottom">
+              <img src="static/files/qualitative-bottom.png" alt="Qualitative comparison for prediction and planning at night">
+            </figure>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section citation-section" id="citation">
+      <div class="container citation-grid">
+        <div>
+          <p class="eyebrow">Citation</p>
+          <h2>Use EventDrive in your research</h2>
+          <p>
+            The dataset and toolkit are available on Hugging Face. Please cite EventDrive
+            when using the benchmark in your research.
+          </p>
+          <a class="text-link" href="https://huggingface.co/datasets/dylanorange/EventDrive">
+            Dataset &amp; Toolkit <span aria-hidden="true">&rarr;</span>
+          </a>
+        </div>
+        <div class="bibtex-card">
+          <button class="copy-button" type="button" data-copy-bibtex>Copy BibTeX</button>
+          <pre><code id="bibtex">@InProceedings{Lu_2026_CVPR,
+  author    = {Lu, Dongyue and Li, Rong and Liang, Ao and Kong, Lingdong and Yin, Wei and Ng, Lai Xing and Cottereau, Benoit R. and Chane, Camille Simon and Ooi, Wei Tsang},
+  title     = {EventDrive: Event Cameras for Vision-Language Driving Intelligence},
+  booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)},
+  year      = {2026},
+}</code></pre>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <div class="container footer-inner">
+      <a class="brand" href="#top">EventDrive</a>
+      <p>
+        Website design inspired by <a href="https://worldbench.github.io/worldlens">WorldLens</a>.
+      </p>
+    </div>
+  </footer>
+
+  <script src="static/js/main.js"></script>
+</body>
+</html>

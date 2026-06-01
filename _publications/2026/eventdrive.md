@@ -20,7 +20,7 @@ authors:
 - Wei Tsang Ooi
 
 links:
-  Project: https://dylanorange.github.io/
-  Paper: https://dylanorange.github.io/
+  Project: https://dylanorange.github.io/projects/eventdrive
+  Paper: https://dylanorange.github.io/projects/eventdrive/static/files/EventDrive.pdf
+  Data: https://huggingface.co/datasets/dylanorange/EventDrive
 ---
-
