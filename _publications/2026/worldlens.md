@@ -5,6 +5,8 @@ selected: true
 
 pub: "CVPR"
 pub_date: "2026"
+pub_post: ", "
+pub_last: ' <span class="badge badge-pill badge-publication badge-success">Oral</span>'
 
 cover: assets/images/covers/worldlens.png
 
